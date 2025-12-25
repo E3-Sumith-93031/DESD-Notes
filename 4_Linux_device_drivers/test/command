@@ -1,0 +1,10 @@
+make
+sudo insmod Exam_1.ko
+sudo dmesg
+sudo dmesg -c
+sudo dmesg 
+sudo dmesg -C
+sudo dmesg 
+sudo rmmod Exam_1 
+sudo dmesg 
+history
